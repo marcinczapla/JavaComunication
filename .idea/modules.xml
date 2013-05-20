@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataModel/DataModel.iml" filepath="$PROJECT_DIR$/DataModel/DataModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaComunication.iml" filepath="$PROJECT_DIR$/JavaComunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderConfirmationService/OrderConfirmationService.iml" filepath="$PROJECT_DIR$/OrderConfirmationService/OrderConfirmationService.iml" />
     </modules>
   </component>
 </project>
